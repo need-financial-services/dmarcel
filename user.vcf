@@ -5,10 +5,10 @@ N:Marcel,Denice;;;
 FN:Denice Marcel
 ORG:NEED Financial Services;
 TITLE:Accounts Payable Lead
-EMAIL;type=INTERNET;type=WORK;type=pref:jvogel@needfs.com
+EMAIL;type=INTERNET;type=WORK;type=pref:dmarcel@needfs.com
 TEL;type=WORK;type=VOICE:+13103951500
 item1.ADR;type=WORK;type=pref:;;701 Santa Monica Blvd. Ste 200\nSanta Monica\, CA;;;90401;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:needfs.com
 item2.X-ABLabel:_$!<HomePage>!$_
-PHOTO;ENCODING=b;TYPE=JPEG:END:VCARD
+END:VCARD
